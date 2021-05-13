@@ -1,2 +1,2 @@
 # heart_app
-app from algoritmika
+app from algoritmika v1
